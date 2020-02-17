@@ -1,5 +1,9 @@
 # 欢迎BiliBili助手APP(安卓/苹果)
 
+- 官方网站/C2C闪电网络：https://www.bilihp.com
+
+- 软件介绍/下载站：https://app.bilihp.com
+
 - 按照版本下载最新的把，其实……随便选拉~有自动更新的
 
 - 开发群：[744900168]
