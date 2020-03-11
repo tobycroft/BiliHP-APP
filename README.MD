@@ -26,12 +26,12 @@ Go版本支持：
 + Mipsel路由器(Openwrt/PandoraBox)
 
 
-+ C#版本支持：
+C#版本支持：
 + Windows64（Win10/Win8/Win8.1,Win7）
 + Windows32(Win7/WinXP)
 
 
-+ 易语言E版本支持：
+易语言E版本支持：
 + Windows32-C2C控制台
 
 
