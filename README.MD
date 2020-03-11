@@ -16,6 +16,7 @@
 
 支持以下平台：
 
+Go版本支持：
 + Android安卓
 + IOS苹果
 + Windows64（Win10/Win8/Win8.1,Win7）
@@ -23,6 +24,16 @@
 + Linux(Centos/Ubuntu/Debain)
 + Mac苹果机(Darwin)
 + Mipsel路由器(Openwrt/PandoraBox)
+
+
+C#版本支持：
++ Windows64（Win10/Win8/Win8.1,Win7）
++ Windows32(Win7/WinXP)
+
+
+易语言E版本支持：
++ Windows32-C2C控制台
+
 
 ## 优势
 
@@ -91,7 +102,7 @@
   + 舰队领奖（2020WEB全模拟）
   + 实物/天选抽奖（2020WEB全模拟）
   + PK/大乐斗抽奖（2020WEB全模拟）
-  + 节奏风暴（头部版，150n）
+  + 节奏风暴（C2CGo版，9000+room）
 + 自动完成双端等任务（2019静态模拟）
 + ~~自动送礼物~~（涉及用户隐私，暂时拿掉）
 + 自动每日奖励（静态模拟）
@@ -133,6 +144,8 @@
 + 最新Go编译，性能好，占内存少
 + 每个人听一部分直播间，闪电网络全服共享
 
+# C2C控制台-PC
++ 桌面版C2C控制台，无实际挂机功能，仅供电脑端查看加入C2C，和服主审核用户
 
 ## BiliHP-Android
 
