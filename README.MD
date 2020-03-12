@@ -12,7 +12,7 @@
 
 - Emm，不是很缺钱，如果实在闲钱多，可以考虑一下我的另一个项目Acfur智能姬群机器人
 
-## 介绍
+## 软件平台支持
 
 支持以下平台：
 
@@ -35,6 +35,40 @@ C#版本支持：
 + Windows32-C2C控制台
 
 
+C#版本支持：
++ Windows64（Win10/Win8/Win8.1,Win7）
++ Windows32(Win7/WinXP)
+
+
+易语言E版本支持：
++ Windows32-C2C控制台
+
+
+## 软件功能介绍
+
+单人使用：
++ PCGo：
+ + Golang协程编程的单人客户端
+ + 使用本地WEB界面操作，或修改conf.ini操作
+ + 支持APP远程设定
+ + 支持全平台
+ + https://github.com/tobycroft/BiliHP-APP/tree/master/PC%26路由器%26树莓派
+
++ PCNet：
+ + C#编写的单人客户端
+ + 支持APP远程设定
+ + 使用WinFrom本地操作，体验更好
+ + 仅支持Windows和Mono后的Linux
+ + https://github.com/tobycroft/BiliHP-APP/tree/master/PC.Net版
+ 
+多人使用/也可以单人：
++ C2CGo：
+ + Golang协程编程的多人客户端
+ + APP全程远程设定或使用C2CE语言面板操作均可
+ + 支持全服务器平台（Win/Lin）
+ + https://github.com/tobycroft/BiliHP-APP/tree/master/PC%26路由器%26树莓派
+ 
+ 
 ## 一般优势
 
 + 数据整合：继承哔哩哔哩助手（2017年名）一贯以来的数据互通，一次登录，全平台共享数据；
@@ -115,9 +149,6 @@ C#版本支持：
 
 
 ## TODO
-- 节奏风暴（全区版）
-- 节奏风暴（闪电网络版）
-- C2C闪电网络
 - 过期赠送（随机版）
 - 过期赠送（定向版）
 
