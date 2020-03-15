@@ -67,6 +67,9 @@ C#版本支持：
   + 使用WinFrom本地操作，体验更好
   + 仅支持Windows和Mono后的Linux
   + https://github.com/tobycroft/BiliHP-APP/tree/master/PC.Net版
+  
++ 安卓/苹果：
+  + 应该是目前最好用的全功能客户端了
  
 多人使用/也可以单人：
 + C2CGo：
