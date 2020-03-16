@@ -233,7 +233,10 @@ C#版本支持：
 
 ## BiliHP-Android
 ~~~~
-PC.Net版v1.0.2 修复概率设定大小写符号写反的低级BUG；修复
+PC.Net版v1.0.2 
+修复概率设定大小写符号写反的低级BUG；
+修复SuperCURL存在不稳定的BUG；
+SuperCURL新增ECAM功能
 ~~~~
 ~~~~
 v0.5.9 BiliDM（弹幕模块）模块更新，避免服务器重启导致程序出错
