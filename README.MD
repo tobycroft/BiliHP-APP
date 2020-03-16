@@ -233,6 +233,10 @@ C#版本支持：
 
 ## BiliHP-Android
 ~~~~
+PC.Net版v1.0.3
+修复部分用户因为cookie问题导致的故障
+~~~~
+~~~~
 PC.Net版v1.0.2 
 修复概率设定大小写符号写反的低级BUG；
 修复SuperCURL存在不稳定的BUG；
