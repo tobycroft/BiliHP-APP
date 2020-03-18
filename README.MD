@@ -313,6 +313,6 @@ v0.5.8 C2C做了登陆修正，避免Null出现
 ~~~~
 
 
-##### 更多ChangeLOG请查看./CHANGELOG.MD
+**[更多ChangeLOG请查看]**:./CHANGELOG.MD
 ## BiliHP-IOS
 
