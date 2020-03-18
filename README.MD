@@ -314,7 +314,7 @@ v0.5.8 C2C做了登陆修正，避免Null出现
 
 
 
-[Listen]: https://123/ting "每日英语听力"
+[更多ChangeLOG请查看]:./CHANGELOG.MD "更多ChangeLOG请查看"
 
 ## BiliHP-IOS
 
