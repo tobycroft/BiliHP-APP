@@ -240,7 +240,7 @@ C#版本支持：
 # C2C控制台-PC
 + 桌面版C2C控制台，无实际挂机功能，仅供电脑端查看加入C2C，和服主审核用户
 
-## BiliHP-Android
+### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
 C2C v0.7.1-0.7.2
 1.代码大改，新增3条主路由协程通道，完全采用“用通道共享内存”方式，CPU降低5-7%
@@ -314,7 +314,7 @@ v0.5.8 C2C做了登陆修正，避免Null出现
 
 
 
-[更多ChangeLOG请查看]:./CHANGELOG.MD "更多ChangeLOG请查看"
+
 
 ## BiliHP-IOS
 
