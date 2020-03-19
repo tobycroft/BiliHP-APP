@@ -243,7 +243,8 @@ C#版本支持：
 + 路由器系统：
 ![openwrt](/res/openwrt.png)
 
-
++ Windows系统：
+![Windows系统](/res/win.png)
 
 # C2C控制台-PC
 + 桌面版C2C控制台，无实际挂机功能，仅供电脑端查看加入C2C，和服主审核用户
