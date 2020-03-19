@@ -247,21 +247,34 @@ C#版本支持：
 因为采用静态编译，所以各位无需安装任何环境，下载对应版本即可执行！非常简单！
 
 路由器版本：
+
 wget http://pandorabox.tuuz.cc:8000/app/c2c_router_linux
+
 chmod 777 c2c_router_linux
+
 ./c2c_router_linux
+
+
 
 
 Linux服务器版本(已经装过wget可以跳过)：
+
 yum install wget screen -y
+
 apt install wget screen -y
+
 wget http://pandorabox.tuuz.cc:8000/app/c2c_router_linux
+
 chmod 777 c2c_router_linux
+
 ./c2c_router_linux
 
 
+
 Windows服务器版本：
+
 64位：http://pandorabox.tuuz.cc:8000/app/c2c_win64.exe
+
 32位：http://pandorabox.tuuz.cc:8000/app/c2c_win32.exe
 
 
@@ -270,7 +283,8 @@ Windows服务器版本：
 + 路由器系统：
 ![openwrt](/res/openwrt.png)
 
-
++ Windows系统：
+![Windows系统](/res/win.png)
 
 # C2C控制台-PC
 + 桌面版C2C控制台，无实际挂机功能，仅供电脑端查看加入C2C，和服主审核用户
