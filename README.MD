@@ -283,7 +283,10 @@ chmod 777 c2c_router_linux
 ![openwrt](/res/openwrt.png)
 
 + Windows系统：
-![Windows系统](/res/win.png)
+![Windows](/res/win.png)
+
++ Linux系统：
+![Linux](/res/linux.png)
 
 # C2C控制台-PC
 + 桌面版C2C控制台，无实际挂机功能，仅供电脑端查看加入C2C，和服主审核用户
