@@ -283,8 +283,7 @@ chmod 777 c2c_router_linux
 
 
 # 快速教程+独有功能演示
-    
-    <video src="https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.mp4" controls="controls" width="100%" height="auto"/>
+https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.mp4
 
 
 # 性能情况
