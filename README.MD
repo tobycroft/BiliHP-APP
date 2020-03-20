@@ -282,6 +282,10 @@ chmod 777 c2c_router_linux
 
 
 
+# 快速教程+独有功能演示
+https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.mp4
+
+
 # 性能情况
 + 路由器系统：
 ![openwrt](/res/openwrt.png)
