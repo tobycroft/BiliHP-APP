@@ -283,11 +283,9 @@ chmod 777 c2c_router_linux
 
 
 # 快速教程+独有功能演示
+    
+    <video src="https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.mp4" controls="controls" width="100%" height="auto"/>
 
-<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.mp4" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-    </video>
 
 # 性能情况
 + 路由器系统：
