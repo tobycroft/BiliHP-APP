@@ -301,6 +301,10 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+v1.3.1 	PCNET	
+1.将Socket改成公用调用，避免断连后出现disposed报错
+~~~~
+~~~~
 v1.3.0 	PCNET	
 1.功能全部接完了
 2.在可能出现故障的地方全部加入trycatch了，修复可能因为网络不好导致闪退的问题
