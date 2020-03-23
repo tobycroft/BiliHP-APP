@@ -306,6 +306,10 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+v1.3.3 	PCNET
+1.发现Logo设计风格和别家撞了，现重新设计新版文字Logo
+~~~~
+~~~~
 C2C v0.8.9
 1.性能优化：新增Map的回收方法，提高内存效率
 ~~~~
