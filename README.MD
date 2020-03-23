@@ -306,6 +306,10 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+C2C v0.8.9
+1.性能优化：新增Map的回收方法，提高内存效率
+~~~~
+~~~~
 v1.3.1 	PCNET
 1.将Socket改成公用调用，避免断连后出现disposed报错
 ~~~~
