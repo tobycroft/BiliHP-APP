@@ -132,6 +132,7 @@ C#版本支持：
 + 自助远程操作2020：比2017版更先进，所有的操作毫秒级同步到PCGo，PCNet或者C2CGo上，时效性超高，目前只有BiliHP拥有本功能
 + 全语系：BiliHP系列软件使用了Golang/C#/PHP/JavaScript/E语言/Python,界面使用了Winform和HTML/CSS是唯一一个横跨所有大语系的项目，无论你是什么技术级别，你都可以定制自己的客户端，BiliHP独有
 
+![app](/res/github-app.png)
 
 ## 对比友商软件
 - 安卓苹果均是正式支持，不需要安装模拟器这样的玩意，界面美观效率高，使用简便，无需搭建教程
