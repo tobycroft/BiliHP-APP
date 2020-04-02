@@ -289,6 +289,10 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+PCNet 1.5.0
+1.新增天选关键词屏蔽功能
+~~~~
+~~~~
 C2C 0.9.0
 1.新增天选关键词屏蔽功能
 ~~~~
