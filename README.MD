@@ -289,8 +289,8 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
-PCGo 0.22.1
-C2C 0.9.0
+PCGo 0.22.1-0.22.2
+C2C 0.10.2
 Android1.15.1
 PCNet 1.5.1
 1.天选关键词采用关键词匹配方法
