@@ -289,6 +289,12 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+Android	
+1.新增-礼物包裹列表+手动送礼物 
+2.新增-送礼到达直播间配置（APP设置） 
+3.新增-一键清理剩余1天内的礼包功能
+~~~~
+~~~~
 PCGo 0.22.1-0.22.2
 C2C 0.10.2
 Android1.15.1
