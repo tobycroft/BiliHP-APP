@@ -21,6 +21,8 @@
 https://testflight.apple.com/join/mWMj17tT
 加入BiliHP-TF
 
+3.按照提示即可完成安装
+
 
 ## 软件平台支持
 
