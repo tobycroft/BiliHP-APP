@@ -23,11 +23,11 @@
 
 要使用TF，请先加入BiliHP的TF计划，方法如下
 
-1.下载苹果testflightAPP
+1.在苹果商店下载 TestFlight
 
-2.编辑一个邮件，标题为“BiliHP-TF”，正文为你的appleid
-
-3.发送邮件至silver_hawk@qq.com
+2.通过
+https://testflight.apple.com/join/mWMj17tT
+加入BiliHP-TF
 
 
 ## 软件平台支持
