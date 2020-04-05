@@ -289,6 +289,15 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+
+v1.16.2	Android	
+1.修复双端观看问题 
+2.修复签到重复执行问题
+
+v1.16.1	Android	
+1.修复手动赠送礼物无法取消的BUG
+~~~~
+~~~~
 Android	
 1.新增-礼物包裹列表+手动送礼物 
 2.新增-送礼到达直播间配置（APP设置） 
