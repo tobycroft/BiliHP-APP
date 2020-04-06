@@ -282,6 +282,9 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+v1.17.2	Android	1.修复天选抽奖屏蔽词无法屏蔽的BUG
+~~~~
+~~~~
 C2CGo	0.12.6
 1.优化多线程弹幕处理模块
 ~~~~
