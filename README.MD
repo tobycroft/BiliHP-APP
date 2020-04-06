@@ -282,6 +282,10 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+v1.17.0	Android	1.新增-包裹列表-亲密度列表
+v1.17.1	Android	1.优化C2C显示界面，新增超级节点显示
+~~~~
+~~~~
 C2CGo	0.12.3
 PCGo    0.22.3
 1.修复天选关键词过滤BUG
