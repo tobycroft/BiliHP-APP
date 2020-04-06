@@ -282,6 +282,11 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+C2CGo	0.12.3
+PCGo    0.22.3
+1.修复天选关键词过滤BUG
+~~~~
+~~~~
 C2CGo	0.12.2
 1.修复ActionRoute使用空数据发送报错闪退的BUG
 ~~~~
