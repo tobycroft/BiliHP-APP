@@ -282,7 +282,11 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
-C2CGo	
+C2CGo	0.12.2
+1.修复ActionRoute使用空数据发送报错闪退的BUG
+~~~~
+~~~~
+C2CGo	0.12.1
 1.新增-超级节点
 2.优化-底层优化，解决弹幕监听出错问题（应该解决了重连后连接爆炸问题）
 ~~~~
