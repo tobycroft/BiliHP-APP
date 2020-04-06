@@ -233,7 +233,7 @@ C#版本支持：
 
 ### 路由器版本：
 
-wget http://pandorabox.tuuz.cc:8000/app/c2c_router_linux
+curl -O http://pandorabox.tuuz.cc:8000/app/c2c_router_linux
 
 chmod 777 c2c_router_linux
 
@@ -247,11 +247,11 @@ yum install wget screen -y
 
 apt install wget screen -y
 
-wget http://pandorabox.tuuz.cc:8000/app/c2c_router_linux
+curl -O http://pandorabox.tuuz.cc:8000/app/c2c_linux
 
-chmod 777 c2c_router_linux
+chmod 777 c2c_linux
 
-./c2c_router_linux
+./c2c_linux
 
 
 
