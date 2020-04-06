@@ -282,6 +282,12 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+C2CGo	0.12.8-9
+1.优化内存占用
+- 将底层弹幕去重模块从syncmap换成高性能的gocache模块
+2.修复12.8版本中可能出现的弹幕去重失效问题
+~~~~
+~~~~
 C2CGo	0.12.7
 1.优化内存占用
 WindowsServer：16788个（21：45分全部）room占用1187MB
