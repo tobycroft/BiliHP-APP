@@ -282,6 +282,13 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+C2CGo	0.12.7
+1.优化内存占用
+WindowsServer：16788个（21：45分全部）room占用1187MB
+Linux,16788个占用54.3%的内存（1G），差不多600M左右
+2.修复12.6版本可能出现的DM内存回收机制可能导致的闪退
+~~~~
+~~~~
 v1.17.2	Android	1.修复天选抽奖屏蔽词无法屏蔽的BUG
 ~~~~
 ~~~~
