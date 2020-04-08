@@ -283,7 +283,7 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 + 桌面版C2C控制台，无实际挂机功能，仅供电脑端查看加入C2C，和服主审核用户
 
 ### 项目感谢(帮助)
-**[感谢列表](./thanks.MD)**
+**[感谢列表](./thanks.md)**
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
