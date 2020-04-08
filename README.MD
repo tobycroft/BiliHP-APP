@@ -287,6 +287,14 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+C2CGo	1.0.0
+C2C正式版来啦
+1.隔壁Python版本监控直播间内存占用一直比我Go低，让我很不解很不服啊，Golang连屁眼通红都打不过？
+经过2天的调试，目前C2C监控1w62只需要570m（包括linux系统占用的129MB），CPU平均14%，最高67%
+Windows版本平均721mb，CPU13.6%，最高47%
+2.错误优化，正式版加入recover机制，避免故障闪退
+~~~~
+~~~~
 C2CGo	0.12.8-9
 1.优化内存占用
 - 将底层弹幕去重模块从syncmap换成高性能的gocache模块
