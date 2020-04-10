@@ -287,6 +287,12 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+PCNet
+1.PCNet修复连接释放问题
+Android1.17.6
+接入极验验证，换用V3接口
+~~~~
+~~~~
 PCGo
 1.修复可能出现的天选问题
 ~~~~
