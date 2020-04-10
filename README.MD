@@ -287,6 +287,10 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+PCGo
+1.修复可能出现的天选问题
+~~~~
+~~~~
 C2CGo
 1.0.6修复天选问题
 1.0.7.1修复可能出现重来你故障问题
