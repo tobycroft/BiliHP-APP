@@ -287,6 +287,10 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+C2CGo
+1.0.8.1优化重连机制，3次重连失败，则T出直播间，避免重连造成CPU高占用率
+~~~~
+~~~~
 PCNet
 1.PCNet修复连接释放问题
 Android1.17.6
