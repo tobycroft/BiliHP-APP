@@ -286,7 +286,10 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 **[感谢列表](./thanks.md)**
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
-
+~~~~
+C2CGo
+1.1.1.1修复手贱删除SendObj方法中的data导致不显示领取的BUG（其实已经领取了，只是没有返回信息）
+~~~~
 ~~~~
 Android1.18.1-3
 1.修复天选
