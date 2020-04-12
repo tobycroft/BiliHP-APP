@@ -288,6 +288,11 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
 C2CGo
+1.1.4.1降低PCR的性能占用内存占用
+2修复天选关键词匹配
+~~~~
+~~~~
+C2CGo
 1.1.1.1修复天选关键词匹配
 ~~~~
 ~~~~
