@@ -287,6 +287,11 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+Android 1.19.0-1
+1.19.0.0新增C2C图片自定义上传
+1.19.0.1修复IOS本地权限
+~~~~
+~~~~
 PCGo 0.22.6
 1.天选微调
 ~~~~
