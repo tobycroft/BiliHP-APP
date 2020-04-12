@@ -287,8 +287,13 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+C2CGo
+1.1.1.1修复天选关键词匹配
+~~~~
+~~~~
 PCGo 0.22.8
 1.修复可能出现的只剩下心跳的BUG
+2.修复天选关键词匹配
 ~~~~
 ~~~~
 Android 1.19.0-1
