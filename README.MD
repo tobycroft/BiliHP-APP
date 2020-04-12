@@ -288,6 +288,12 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 
 ~~~~
+Android1.18.1-3
+1.修复天选
+2.修复服务器切换
+3.修复天选关键词匹配BUG
+~~~~
+~~~~
 Android1.17.7-8
 界面小调
 ~~~~
