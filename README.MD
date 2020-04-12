@@ -287,6 +287,10 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+PCGo 0.22.6
+1.天选微调
+~~~~
+~~~~
 C2CGo
 1.1.1.1修复手贱删除SendObj方法中的data导致不显示领取的BUG（其实已经领取了，只是没有返回信息）
 ~~~~
