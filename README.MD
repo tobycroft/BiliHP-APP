@@ -289,6 +289,19 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 ~~~~
 C2CGo
 1.1.6.1采用慢速链接（就问你难不难受）
+附上自动更新+防掉脚本，请保存成sh文件后执行即可
+
+#!/bin/sh
+while :;do
+	killall c2c_linux
+	echo [`date "+%Y-%m-%d %H:%M:%S"`] Downloading...
+	curl -O https://pandorabox.tuuz.cc:444/app/c2c_linux
+	chmod +x /root/c2c_linux
+	/root/c2c_linux
+done
+
+希望C2C抱团取暖通过节点网络向其他节点共享你的数据吧！
+
 ~~~~
 ~~~~
 PCNet 1.5.6
