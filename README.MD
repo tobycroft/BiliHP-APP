@@ -287,6 +287,10 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+C2CGo
+1.1.6.1采用慢速链接（就问你难不难受）
+~~~~
+~~~~
 PCNet 1.5.6
 1.天选屏蔽词优化
 ~~~~
