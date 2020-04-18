@@ -1,5 +1,9 @@
 # 欢迎使用BiliBili助手全端软件(安卓/苹果/Windows/Linux/Openwrt/潘多拉/路由器)
 
+- 请注意本项目完全免费的，但是挡不住有人拿着卖钱，毕竟17年那会TB卖的很多都是我的软件2333，反手投诉即可
+
+- 本项目有会涉及到隐私请注意隐私说明
+
 - 官方网站/C2C闪电网络：https://www.bilihp.com
 
 - 软件介绍/下载站：https://app.bilihp.com
