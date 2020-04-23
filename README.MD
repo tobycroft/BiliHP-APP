@@ -297,6 +297,11 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+PCNet
+1.6.0
+1.新增共享Cookie登录，手机APP登录后，PCNet打开共享登录界面直接输入登录信息即可登录
+~~~~
+~~~~
 C2C
 1.1.12-15
 1.恢复疾速连入功能（仅限超级节点）
