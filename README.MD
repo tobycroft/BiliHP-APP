@@ -271,6 +271,11 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+PCNet
+1.7.0
+1.接口全部换用V3，并接入极验验证
+~~~~
+~~~~
 C2C
 1.3.0
 1.修复长时间使用后弹幕不重连的BUG
