@@ -271,6 +271,11 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+C2C
+1.3.5
+1.修复可能出现的卡弹幕问题
+~~~~
+~~~~
 PCNet
 1.7.2
 1.修复BUG
