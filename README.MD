@@ -77,7 +77,7 @@ C#版本支持：
 + 安卓/苹果：
   + 应该是目前最好用的全功能客户端了
 
-  <img src="/res/ba.jpg" width="200px"><img src="/res/ba2.jpg" width="200px">
+  <img src="/res/ba.jpg" width="200px"><img src="/res/ba2.jpg" width="200px"><img src="/res/ba3.jpg" width="200px"><img src="/res/ba4.jpg" width="200px">
  
 多人使用/也可以单人：
 + C2CGo：
