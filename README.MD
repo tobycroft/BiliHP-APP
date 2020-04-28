@@ -76,7 +76,7 @@ C#版本支持：
   ![PCNet](/res/pcnet1.jpg)
 + 安卓/苹果：
   + 应该是目前最好用的全功能客户端了
-  ![and](/res/ba.jpg)
+  ![and](/res/ba.jpg){:width="200px"}
  
 多人使用/也可以单人：
 + C2CGo：
