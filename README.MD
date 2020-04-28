@@ -271,6 +271,16 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+C2C
+1.4.0
+PCGO
+0.24.0
+PCNet
+1.8.0
+1.新增实物抽奖
+
+~~~~
+~~~~
 Android/IOS
 1.20.1
 1.新增实物抽奖
