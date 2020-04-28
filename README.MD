@@ -271,6 +271,11 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+PCNet
+1.9.0
+1.下面一排更新了
+~~~~
+~~~~
 C2C
 1.4.0
 PCGO
