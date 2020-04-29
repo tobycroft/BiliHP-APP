@@ -274,7 +274,7 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
 C2C
-1.5.0
+1.5.1
 1.预备了压缩方法可以大幅减少网络占用
 2.修复C2C经常间歇性炸服问题
 ~~~~
