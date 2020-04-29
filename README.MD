@@ -274,7 +274,7 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
 PCGo 1.0.0
-1.登录全面换用v3极验验证
+1.登录全面换用v3极验验证，解决部分用户一直出现的登录问题
 ~~~~
 ~~~~
 APP1.21.1
