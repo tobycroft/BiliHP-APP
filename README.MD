@@ -273,6 +273,11 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+PCNet
+1.10.0
+1.下面一排更新了
+~~~~
+~~~~
 APP1.21.0
 1.新增漫画签到 
 2.新增漫画分享 
