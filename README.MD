@@ -6,9 +6,9 @@
 
 - 本项目有会涉及到隐私请注意[隐私说明](https://github.com/tobycroft/BiliHP-APP/wiki/%E6%B6%89%E5%8F%8A%E9%9A%90%E7%A7%81%E7%9A%84%E5%86%85%E5%AE%B9)
 
-- 官方网站/C2C闪电网络：https://www.bilihp.com
+- 官方网站/C2C闪电网络：https://www.bilihp.com:444
 
-- 软件介绍/下载站：https://app.bilihp.com
+- 软件介绍/下载站：https://app.bilihp.com:444
 
 - 按照版本下载最新的把，其实……随便选拉~有自动更新的
 
