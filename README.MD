@@ -276,6 +276,10 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
+C2C 1.7.5
+1.修复重连导致的多次连入
+~~~~
+~~~~
 PCGo 1.1.0
 PCNet 1.12.0
 1.APP设定新增“天选弹幕屏蔽词”避免被主播钓鱼
