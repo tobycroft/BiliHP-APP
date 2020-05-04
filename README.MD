@@ -277,7 +277,7 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 ### **[更多ChangeLOG请查看](./CHANGELOG.MD)**
 ~~~~
 C2C 1.7.5
-1.修复重连导致的多次连入
+1.修复重连导致被主服务器强制断线的BUG
 PCNt1.12.1
 1.修复弹幕屏蔽词问题
 ~~~~
