@@ -4,7 +4,7 @@
 
 每天用户都不多，可以放心用！
 
-![PCNet](https://github.com/tobycroft/BiliHP-APP/blob/master/res/QQ20200508-134240%402x.png)
+![PCNet](https://github.com/tobycroft/BiliHP-APP/blob/master/res/QQ截图20200510172908.jpg)
 
 
 
