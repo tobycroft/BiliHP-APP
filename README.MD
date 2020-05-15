@@ -19,6 +19,16 @@
 
 
 
+
+有些憨憨还是没看到本项目其他的开源地址，我就问一下，点开我的首页看看会4嘛？
+
+https://github.com/tobycroft/BiliHP-WinPC
+https://github.com/tobycroft/BiliHP-Local
+https://github.com/tobycroft/BiliHelper-for-Memory
+
+以上是已经开源了几个月的源代码，希望眼瞎的朋友可以找到你的最终白嫖归宿
+
+
 - 请注意本项目完全免费的，但是挡不住有人拿着卖钱，毕竟17年那会TB卖的很多都是我的软件2333，反手投诉即可
 
 - 本项目有会涉及到隐私请注意[隐私说明](https://github.com/tobycroft/BiliHP-APP/wiki/%E6%B6%89%E5%8F%8A%E9%9A%90%E7%A7%81%E7%9A%84%E5%86%85%E5%AE%B9)
