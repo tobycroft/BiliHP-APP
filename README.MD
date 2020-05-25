@@ -24,7 +24,15 @@
 
 ## IOS用户
 
-IOS近期将再次回归TF内测，请等待公开连接放出
+BiHP-Dark回归，使用本连接加入TF一起来测试吧！
+
+TF连接：https://testflight.apple.com/join/AesSxRuh
+
+在加入TF后，请根据页面提示操作
+
+1.下载TF
+
+2.安装BiHp-Dark
 
 
 ## 软件平台支持
