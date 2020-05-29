@@ -231,6 +231,10 @@ C#版本支持：
 
 ### 路由器版本：
 
+opkg update
+
+opkg install curl ca-bundle wget screen -y
+
 curl -O http://pandorabox.tuuz.cc:8000/app/c2c_router_linux
 
 chmod 777 c2c_router_linux
