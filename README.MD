@@ -234,9 +234,9 @@ chmod 777 c2c_router_linux
 
 ### Linux服务器版本(已经装过wget可以跳过)：
 
-yum install wget screen -y
+yum install wget screen curl -y
 
-apt install wget screen -y
+apt install wget screen curl -y
 
 curl -O http://pandorabox.tuuz.cc:8000/app/c2c_linux
 
