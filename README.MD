@@ -83,8 +83,7 @@ C#版本支持：
   ![PCNet](/res/pcnet1.jpg)
 + 安卓/苹果：
   + 应该是目前最好用的全功能客户端了
-
-  <img src="/res/dark.png">
+  !<img src="/res/dark.png">
   
   
 多人使用/也可以单人：
