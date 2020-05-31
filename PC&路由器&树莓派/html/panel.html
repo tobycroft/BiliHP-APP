@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>BiliHP-助手网络GoWeb版</title>
+    <link rel="stylesheet" href="//www.layuicdn.com/layui/css/layui.css" media="all">
+    <style>
+
+    </style>
+</head>
+<body>
+
+<div class="layui-row">
+    <fieldset class="layui-elem-field layui-field-title" align="center">
+        <legend>配置好后，可以关闭本网页，软件不受影响，如果需要再次配置，可直接访问http://127.0.0.1</legend>
+    </fieldset>
+    <form class="layui-form" action="" lay-filter="common">
+        <div class="layui-col-xs6 layui-col-sm6 layui-col-md4">
+            <fieldset class="layui-elem-field layui-field-title" style="margin-top: 50px;">
+                <legend>普通功能设置</legend>
+            </fieldset>
+
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">心跳控制：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="app_heart" title="APP心跳">
+                    <input type="checkbox" name="pc_heart" title="PC心跳">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">每日签到：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="daily_bag" title="每日签到">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">银瓜子获取：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="online_silver" title="银瓜子获取">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">双端观看：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="silver_task" title="双端观看">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">主站任务：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="daily_task" title="主站任务">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">应援团签到：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="yingyuan_sign" title="应援团签到">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">银瓜子兑换硬币：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="silver_to_coin" title="银瓜子兑换硬币">
+                </div>
+            </div>
+        </div>
+        {{/*-------------------------------------*/}}
+        <div class="layui-col-xs6 layui-col-sm6 layui-col-md4">
+            <fieldset class="layui-elem-field layui-field-title" style="margin-top: 50px;">
+                <legend>礼物功能设置</legend>
+            </fieldset>
+
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">抢礼物设定：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="raffle" title="小电视/大楼/任意门">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">总督/拿督/舰长：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="guard" title="总督">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">天选时刻（有概率上官方封号名单，你用其他助手也一样，都有概率会封）：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="tianxuan" title="天选时刻">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">天选时刻（有概率上官方封号名单，你用其他助手也一样，都有概率会封）：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="box" title="活动礼物">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">PK/大乐斗：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="pk" title="大乐斗">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">节奏风暴：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="storm" title="节奏风暴">
+                </div>
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">抢礼物前先加入房间：</label>
+                <div class="layui-input-block">
+                    <input type="checkbox" name="join_room" title="抢礼物前先加入房间">
+                </div>
+            </div>
+        </div>
+    </form>
+    {{/*-------------------------------------*/}}
+    <form class="layui-form" action="" lay-filter="common">
+        <div class="layui-col-xs4 layui-col-sm12 layui-col-md4">
+            <fieldset class="layui-elem-field layui-field-title" style="margin-top: 50px;">
+                <legend>礼物时间设定</legend>
+            </fieldset>
+            <div class="layui-form-item">
+                <label class="layui-form-label">礼物获取概率：</label>
+                <div class="layui-input-block">
+                    <input type="text" name="percent" title="礼物概率">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">开启关闭时间，请在手机上设定，本页面做不出来，前端写不来</label>
+                <div class="layui-input-block">
+                </div>
+            </div>
+            <div class="layui-form-item">
+                <div class="layui-input-block">
+                    <button class="layui-btn" lay-submit lay-filter="common">立即提交</button>
+                    <button type="reset" class="layui-btn layui-btn-primary">重置</button>
+                </div>
+            </div>
+
+        </div>
+    </form>
+
+
+</div>
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="//www.layuicdn.com/layui/layui.js"></script>
+<script>
+    layui.use('form', function () {
+        var form = layui.form;
+
+        //监听提交
+        form.on('submit(common)', function (data) {
+            // layer.msg(JSON.stringify(data.field.percent));
+
+            $.ajax({
+                //请求方式
+                type: "POST",
+                //请求地址
+                url: "/setting_set",
+                //数据，json字符串
+                data: {
+                    "key": "percent",
+                    "value": data.field.percent,
+                },
+                success: function (ret) {
+                    var ret = JSON.parse(ret)
+                    // alert(ret.data);
+                    layer.msg(ret.data, {
+                        offset: '300px'
+                    });
+                }
+            });
+            $.ajax({
+                //请求方式
+                type: "POST",
+                //请求地址
+                url: "/setting_set",
+                //数据，json字符串
+                data: {
+                    "key": "time",
+                    "value": data.field.time,
+                },
+                success: function (ret) {
+                    var ret = JSON.parse(ret)
+                    // alert(ret.data);
+                    layer.msg(ret.data, {
+                        offset: '300px'
+                    });
+                }
+            });
+
+            return false;
+        });
+
+        //监听指定开关
+        form.on('checkbox()', function (data) {
+            $.ajax({
+                //请求方式
+                type: "POST",
+                //请求地址
+                url: "/setting_set",
+                //数据，json字符串
+                data: {
+                    "key": this.name,
+                    "value": this.checked ? 1 : 0,
+                },
+                success: function (ret) {
+                    var ret = JSON.parse(ret)
+                    // alert(ret.data);
+                    layer.msg(ret.data, {
+                        offset: '300px'
+                    });
+                }
+            });
+            // layer.tips('温馨提示：请注意开关状态的文字可以随意定义，而不仅仅是ON|OFF', data.othis)
+        });
+
+
+        $.ajax({
+            //请求方式
+            type: "POST",
+            //请求地址
+            url: "/setting_get",
+            //数据，json字符串
+            data: {},
+            success: function (ret) {
+                var ret = JSON.parse(ret)
+                var data = ret.data
+                // console.log(ret)
+                var obj = new Object();
+                for (var i in data) {
+                    console.log(i, data[i])
+                    if (data[i] == 0) {
+                        obj[i] = false
+                    } else if (data[i] == 1) {
+                        obj[i] = true
+                    } else if (i == "time") {
+                        // var vr=JSON.parse(data[i])
+                        // for (var s in vr) {
+                        //     obj[s] = vr[s];
+                        // }
+                    } else {
+                        obj[i] = data[i];
+                    }
+                }
+                console.log(obj)
+                form.val("common", obj);
+            }
+        });
+    });
+
+
+</script>
+</body>
+</html>
