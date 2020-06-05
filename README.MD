@@ -40,7 +40,9 @@ TF连接：https://testflight.apple.com/join/AesSxRuh
 
 2.安装BiHp-Dark
 
-![https://github.com/tobycroft/BiliHP-APP/releases](https://github.com/tobycroft/BiliHP-APP/releases)
+## 稳定版下载
+
+[https://github.com/tobycroft/BiliHP-APP/releases](https://github.com/tobycroft/BiliHP-APP/releases)
 
 
 ## 软件平台支持
