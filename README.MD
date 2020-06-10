@@ -229,37 +229,29 @@ BiliHP是一个全平台软件，支持安卓2以上版本以及IOS8.0以上的�
 
 ### 路由器版本：
 
-opkg update
-
-opkg install curl ca-bundle wget screen -y
-
-curl -O http://pandorabox.tuuz.cc:8000/app/c2c_router_linux
-
-chmod 777 c2c_router_linux
-
-./c2c_router_linux
+    opkg update
+    opkg install curl ca-bundle wget screen -y
+    curl -O http://pandorabox.tuuz.cc:8000/app/c2c_router_linux
+    chmod 777 c2c_router_linux
+    ./c2c_router_linux
 
 
 
 ### Linux服务器版本(已经装过wget可以跳过)：
 
-yum install wget screen curl -y
-
-apt install wget screen curl -y
-
-curl -O http://pandorabox.tuuz.cc:8000/app/c2c_linux
-
-chmod 777 c2c_linux
-
-./c2c_linux
+    yum install wget screen curl -y
+    apt install wget screen curl -y
+    curl -O http://pandorabox.tuuz.cc:8000/app/c2c_linux
+    chmod 777 c2c_linux
+    ./c2c_linux
 
 
 
 ### Windows服务器版本：
 
-64位：http://pandorabox.tuuz.cc:8000/app/c2c_win64.exe
-
-32位：http://pandorabox.tuuz.cc:8000/app/c2c_win32.exe
+    64位：http://pandorabox.tuuz.cc:8000/app/c2c_win64.exe
+    
+    32位：http://pandorabox.tuuz.cc:8000/app/c2c_win32.exe
 
 
 
