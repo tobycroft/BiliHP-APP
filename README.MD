@@ -76,7 +76,6 @@ C#版本支持：
   + 使用本地WEB界面操作，或修改conf.ini操作
   + 支持APP远程设定
   + 支持全平台
-  + https://github.com/tobycroft/BiliHP-APP/tree/master/PC%26路由器%26树莓派
 
 + PCNet：
   + C#编写的单人客户端
@@ -85,6 +84,7 @@ C#版本支持：
   + 仅支持Windows和Mono后的Linux
   + https://github.com/tobycroft/BiliHP-APP/tree/master/PC.Net版
   ![PCNet](/res/pcnet1.jpg)
+  
 + 安卓/苹果：
   + 应该是目前最好用的全功能客户端了
   !<img src="/res/dark.png">
