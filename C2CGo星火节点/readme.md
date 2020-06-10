@@ -122,21 +122,15 @@ https://pandorabox.tuuz.cc:444/app/c2c_win64
 
 --------------复制如下内容------------------
 
-#!/bin/sh
-
-while :;do
-
-	killall c2c_linux
-
-	echo [`date "+%Y-%m-%d %H:%M:%S"`] Downloading...
-
-	curl -O https://pandorabox.tuuz.cc:444/app/c2c_linux
-
-	chmod +x /root/c2c_linux
-
-	/root/c2c_linux
-
-done
+    #!/bin/sh
+    
+    while :;do
+        killall c2c_linux
+        echo [`date "+%Y-%m-%d %H:%M:%S"`] Downloading...
+        curl -O https://pandorabox.tuuz.cc:444/app/c2c_linux
+        chmod +x /root/c2c_linux
+        /root/c2c_linux
+    done
 
 --------------复制如上内容------------------
 
