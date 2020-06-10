@@ -169,17 +169,11 @@ curl和ca-bundle还有screen，尤其是screen，这个可以在路由器的软�
     #!/bin/sh
     
     while :;do
-    
         killall c2c_router_linux
-    
         echo [`date "+%Y-%m-%d %H:%M:%S"`] Downloading...
-    
         curl -O https://pandorabox.tuuz.cc:444/app/c2c_router_linux
-    
         chmod +x /root/c2c_router_linux
-    
         /root/c2c_router_linux
-    
     done
 
 --------------复制如上内容------------------
