@@ -82,7 +82,7 @@ C#版本支持：
   + 支持APP远程设定
   + 使用WinFrom本地操作，体验更好
   + 仅支持Windows和Mono后的Linux
-  + https://github.com/tobycroft/BiliHP-APP/tree/master/PC.Net版
+  
   ![PCNet](/res/pcnet1.jpg)
   
 + 安卓/苹果：
@@ -95,7 +95,6 @@ C#版本支持：
   + Golang协程编程的多人客户端
   + APP全程远程设定或使用C2CE语言面板操作均可
   + 支持全服务器平台（Win/Lin）
-  + https://github.com/tobycroft/BiliHP-APP/tree/master/PC%26路由器%26树莓派
  
 ## [与友商软件对比](https://github.com/tobycroft/BiliHP-APP/wiki/BiliBili%E5%8A%A9%E6%89%8B2020%E8%BD%AF%E4%BB%B6%E4%BC%98%E5%8A%BF%E5%AF%B9%E6%AF%94)
 
