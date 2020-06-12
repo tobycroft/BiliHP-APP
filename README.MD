@@ -12,9 +12,11 @@
 
 - 本项目会涉及到的APP权限[权限说明](https://github.com/tobycroft/BiliHP-APP/wiki/APP%E9%9C%80%E8%A6%81%E7%9A%84%E6%9D%83%E9%99%90%E7%94%A8%E9%80%94%E8%AF%B4%E6%98%8E)
 
-- 官方网站/C2C闪电网络：https://www.bilihp.com:444
+- 官方网站/C2C闪电网络：[https://www.bilihp.com:444](https://www.bilihp.com:444)
 
-- 软件介绍/下载站：https://app.bilihp.com:444
+- 软件介绍/下载站：[https://app.bilihp.com:444](https://app.bilihp.com:444)
+
+- 官方微博：[https://weibo.com/6461507711](https://weibo.com/6461507711)
 
 - 请在Release中找到对应版本的最新更新，安卓苹果有自动更新随便选即可
 
