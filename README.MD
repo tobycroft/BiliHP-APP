@@ -16,7 +16,7 @@
 
 - 软件介绍/下载站：[https://app.bilihp.com:444](https://app.bilihp.com:444)
 
-- 官方微博：[https://weibo.com/6461507711](https://weibo.com/6461507711)
+- 官方微博(Diss专用博)：[https://weibo.com/6461507711](https://weibo.com/6461507711)
 
 - 请在Release中找到对应版本的最新更新，安卓苹果有自动更新随便选即可
 
