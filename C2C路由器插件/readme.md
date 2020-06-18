@@ -29,3 +29,23 @@ opkg install /tmp/luci-app-bilihp_1.1-2_all.ipk
 3. 安装成功后，在“服务-BiliHP c2c”中进行配置，然后点击"保存&应用"
 
 
+
+
+## bilihp-shell_script-for-pandavan.tar.gz
+**bilihp-shell_script-for-pandavan.tar.gz适用于pandavan,仅包含shell脚本，无html界面**，使用方法如下：
+1. 使用ssh登录路由器
+2. 下载 bilihp-shell_script-for-pandavan.tar.gz
+``` shell
+wget -O /tmp/bilihp-shell_script-for-pandavan.tar.gz https://raw.githubusercontent.com/tobycroft/BiliHP-APP/master/C2C%E8%B7%AF%E7%94%B1%E5%99%A8%E6%8F%92%E4%BB%B6/bilihp-shell_script-for-pandavan.tar.gz
+```
+3. 解压 bilihp-shell_script-for-pandavan.tar.gz
+```shell
+cd /tmp && tar zxvf bilihp-shell_script-for-pandavan.tar.gz
+```
+4. 运行`init.sh`
+``` shell
+sh /tmp/bilihp/init.sh
+```
+5. 运行`bilihp help`查看帮助信息
+6. 运行`bilihp status`查看状态
+7. 可以重启路由查看bilihp是否能开机启动
