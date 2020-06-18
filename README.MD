@@ -4,7 +4,7 @@
 
 每天用户都不多，可以放心用！
 
-![statistics](https://github.com/tobycroft/BiliHP-APP/blob/master/res/QQ20200525-154137%402x.png)
+![statistics](https://github.com/tobycroft/BiliHP-APP/blob/master/res/QQ截图20200618193901.jpg)
 
 - 请注意本项目完全免费的
 
