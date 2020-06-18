@@ -1,4 +1,5 @@
 # 路由器插件
+## 1. luci-app-bilihp
 **luci-app-bilihp适用于openwrt和部分pandorabox**，安装方法如下：
 ### 方法一
 1. 使用ssh登录路由器
@@ -30,8 +31,8 @@ opkg install /tmp/luci-app-bilihp_1.1-2_all.ipk
 
 
 
-
-## bilihp-shell_script-for-pandavan.tar.gz
+***
+## 2. bilihp-shell_script-for-pandavan.tar.gz
 **bilihp-shell_script-for-pandavan.tar.gz适用于pandavan,仅包含shell脚本，无html界面**，使用方法如下：
 1. 使用ssh登录路由器
 2. 下载 bilihp-shell_script-for-pandavan.tar.gz
