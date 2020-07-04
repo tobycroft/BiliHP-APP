@@ -98,7 +98,7 @@ C#版本支持：
   + APP全程远程设定或使用C2CE语言面板操作均可
   + 支持全服务器平台（Win/Lin）
  
-## [与友商软件对比](https://github.com/tobycroft/BiliHP-APP/wiki/BiliBili%E5%8A%A9%E6%89%8B2020%E8%BD%AF%E4%BB%B6%E4%BC%98%E5%8A%BF%E5%AF%B9%E6%AF%94)
+## [与同类软件对比](https://github.com/tobycroft/BiliHP-APP/wiki/BiliBili%E5%8A%A9%E6%89%8B2020%E8%BD%AF%E4%BB%B6%E4%BC%98%E5%8A%BF%E5%AF%B9%E6%AF%94)
 
 - 自有数据，BiliHP数据均为C2C与超级节点提供的自有数据，并不是依赖“公共接口”提供的礼物数据，可靠性高
 - 安卓苹果均是正式支持，不需要安装模拟器这样的玩意，界面美观效率高，使用简便，无需搭建教程
