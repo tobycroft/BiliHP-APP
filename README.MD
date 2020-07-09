@@ -32,6 +32,8 @@ https://1400293698.vod2.myqcloud.com/fd69ed6cvodcq1400293698/e88cd50652858908031
 
 ## 苹果IOS用户
 
+通过商店搜索bihp或bihpdark
+
 BiHP-Dark回归，使用本连接加入TF一起来测试吧！
 
 TF连接：https://testflight.apple.com/join/AesSxRuh
