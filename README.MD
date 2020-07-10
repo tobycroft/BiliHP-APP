@@ -36,6 +36,8 @@ https://1400293698.vod2.myqcloud.com/fd69ed6cvodcq1400293698/e88cd50652858908031
 
 或者搜索B站助手
 
+无需越狱无需模拟器！
+
 ## 稳定版下载
 
 [https://github.com/tobycroft/BiliHP-APP/releases](https://github.com/tobycroft/BiliHP-APP/releases)
