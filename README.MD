@@ -264,4 +264,10 @@ https://huya-w20.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.m
 ### 项目感谢(帮助)
 **[感谢列表](./thanks.md)**
 
+## 技术框架
+
+[Gorose-PRO](https://github.com/tobycroft/gorose-pro)
+[TuuzGoWeb](https://github.com/tobycroft/TuuzGoWeb)
+
+
 ### **[更多ChangeLOG请查看（不再更新，请通过release查看更新日志）](./CHANGELOG.MD)**
