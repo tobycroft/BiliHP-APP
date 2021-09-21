@@ -36,7 +36,7 @@ Based on Golang
 
 ## 全系列介绍+完整部署教程
 
-https://1400293698.vod2.myqcloud.com/fd69ed6cvodcq1400293698/e88cd5065285890803131908434/ns2WgUeCUvEA.mp4
+https://huya-w21.huya.com/2012/293696244/1300/50adca797fd004caa20d8d38d8ed9def.mp4
 
 ## 苹果IOS用户
 
